@@ -1,0 +1,4 @@
+<resources>
+    <string name="hardware_status">硬件状态</string>
+    <string name="hardware_transport_not_configured">硬件传输尚未配置。主板 I2C 需要 /dev/i2c-N 路径和操作系统/SELinux 权限；CH341 需要按部署配置 VID/PID。</string>
+</resources>
